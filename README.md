@@ -2,6 +2,10 @@
 
 Here is a collection of my presentations at conferences and events discussing various cybersecurity topics:
 
+- **ETH Sydney (Sydney) - 22 November 2024**
+
+  Security for Web3 Teams
+
 - **ETH Global (Sydney) - 3-5 May 2024**
 
   Mentor
