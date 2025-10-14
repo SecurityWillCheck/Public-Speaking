@@ -2,6 +2,12 @@
 
 Here is a collection of my presentations at conferences and events discussing various cybersecurity topics:
 
+### **BSides Canberra (Canberra) - 27 September 2025**
+
+  Topic: Behind the Curtain of Dark Web and Cybercrime Operations. 
+  
+  Link: TBA
+
 ### **NextGenius (Sydney/online) - 28 March 2025**
 
   Topic: Traditional Cyber Security vs Web3 Security and Smart Contract
