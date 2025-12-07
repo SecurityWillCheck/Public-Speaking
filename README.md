@@ -6,7 +6,7 @@ Here is a collection of my presentations at conferences and events discussing va
 
   Topic: Behind the Curtain of Dark Web and Cybercrime Operations. 
   
-  Link: TBA
+  Link: https://www.youtube.com/watch?v=2zNvNwd1FAw
 
 ### **NextGenius (Sydney/online) - 28 March 2025**
 
